@@ -10,4 +10,5 @@
 + <a href="https://github.com/xfWeiss/Simple-Virtual-Machine" style="text-decoration: underline;">Simple Virtual Machine</a>. (April 2025 - now). Stack: C, Make
 + <a href="https://github.com/xfWeiss/SEIR-D-Model-of-Covid-19" style="text-decoration: underline;">SEIR-D Mathematical model of Covid-19</a>. (April 2025). Stack: C, Make
 + <a href="https://github.com/xfWeiss/Disk-Space-Explorer" style="text-decoration: underline;">Disk Space Explorer (File analyst for Linux)</a>. (March - April 2024). Stack: C, NCurses, CTest, Make
++ <a href="https://github.com/xfWeiss/PageRank-Algorithnms/tree/main" style="text-decoration: underline;">Ranking algorithms. PageRank</a>. (December 2024). Stack: C, Make
 + <a href="https://github.com/xfWeiss/CRC32-Algorithm" style="text-decoration: underline;">CRC32 Algorithm</a>. (May 2025). Stack: C
