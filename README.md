@@ -4,7 +4,7 @@
 
 :zap: System programmer
 
-:mortar_board: Student of Siberian State University of Telecommunications and Informatics (SibSUTI's) in Novosibirsk, Russia
+:mortar_board: Student of Siberian State University of Telecommunications and Informatics (SibSUTI's)
 
 ## :hammer_and_wrench: Notable projects:
 + <a href="https://github.com/xfWeiss/Model-Simple-Computer" style="text-decoration: underline;">Model Simple Computer</a>. (April - May 2025). Stack: C, Make
