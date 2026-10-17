@@ -9,7 +9,7 @@
 ## ⚙️ Tech Stack:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,visualstudio,vscode" alt="C, C++, Visual Studio, VS Code" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,linux,docker,visualstudio,vscode" alt="C++, C, Linux, Docker, Visual Studio, VS Code" />
 </p>
 
 ## :hammer_and_wrench: Notable projects:
