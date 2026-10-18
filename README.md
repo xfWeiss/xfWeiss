@@ -1,5 +1,5 @@
 # Hello, I'm <a href="#" style="text-decoration: none;">xfWeiss</a>!
-## :bookmark: Bio |
+## :bookmark: About Me |
 :computer: C/C++ Developer
 
 :zap: System programmer
@@ -12,7 +12,6 @@
   <img src="https://skillicons.dev/icons?i=cpp,c,linux,docker,visualstudio,vscode,cmake" alt="C++, C, Linux, Docker, Visual Studio, VS Code, CMake" />
   <img src="https://img.shields.io/badge/-Make-064F8C?style=flat&logo=gnu&logoColor=white" alt="Make" />
   <img src="https://skillicons.dev/icons?i=git,bash" alt="Git, Bash" />
-  <img src="https://img.shields.io/badge/-GCC-A42E2B?style=flat&logo=gnu&logoColor=white" alt="GCC" />
   <img src="https://img.shields.io/badge/-GDB-102230?style=flat&logo=gnu&logoColor=white" alt="GDB" />
 </p>
 
