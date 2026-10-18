@@ -11,7 +11,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,linux,docker,visualstudio,vscode,cmake" alt="C++, C, Linux, Docker, Visual Studio, VS Code, CMake" />
   <img src="https://skillicons.dev/icons?i=git,bash" alt="Git, Bash" />
-  <img src="https://cdn.simpleicons.org/wireshark/0962D5" alt="Wireshark" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" width="48" height="48" />
 </p>
 
 ## :hammer_and_wrench: Notable projects |
