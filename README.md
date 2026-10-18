@@ -15,6 +15,7 @@
 </p>
 
 ## :hammer_and_wrench: Notable projects |
++ <a href="https://github.com/xfWeiss/HashMap" style="text-decoration: underline;">HashMap - a template hash table in C++20</a>. (August 2025). Stack: C++20
 + <a href="https://github.com/xfWeiss/Model-Simple-Computer" style="text-decoration: underline;">Model Simple Computer</a>. (April - May 2025). Stack: C
 + <a href="https://github.com/xfWeiss/Client-Server-on-TCP-sockets" style="text-decoration: underline;">Client-Server app on TCP sockets</a>. (June 2025). Stack: C++, TCP/IP, Multithread
 + <a href="https://github.com/xfWeiss/SEIR-D-Model-of-Covid-19" style="text-decoration: underline;">SEIR-D Mathematical model of Covid-19</a>. (April 2025). Stack: C
