@@ -10,9 +10,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,linux,docker,visualstudio,vscode,cmake" alt="C++, C, Linux, Docker, Visual Studio, VS Code, CMake" />
-  <img src="https://img.shields.io/badge/-Make-064F8C?style=flat&logo=gnu&logoColor=white" alt="Make" />
   <img src="https://skillicons.dev/icons?i=git,bash" alt="Git, Bash" />
-  <img src="https://img.shields.io/badge/-GDB-102230?style=flat&logo=gnu&logoColor=white" alt="GDB" />
 </p>
 
 ## :hammer_and_wrench: Notable projects |
